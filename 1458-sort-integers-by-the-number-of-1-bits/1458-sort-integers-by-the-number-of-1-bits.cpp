@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int countbits(int n){
+    static int countbits(int n){
         int count =0;
         while (n) {
             n &= (n - 1);
@@ -10,21 +10,16 @@ public:
         
         return count;
     }
+
+    static bool compare(int a, int b){
+        int bitsA = countbits(a);
+        int bitsB = countbits(b);
+        if(bitsA == bitsB) return a < b;
+        return bitsA < bitsB;
+    }
     vector<int> sortByBits(vector<int>& arr) {
-        sort(arr.begin(),arr.end());
+        sort(arr.begin(),arr.end(),compare);
 
-        vector<vector<int>>ans(15);
-
-        for(auto x: arr){
-            ans[countbits(x)].push_back(x);
-        }
-        
-        vector<int>result;
-        for(auto x: ans){
-            for(auto y : x){
-                result.push_back(y);
-            }
-        }
-        return result;
+       return arr;
     }
 };
