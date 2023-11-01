@@ -10,29 +10,30 @@
  * };
  */
 class Solution {
-    int maxi;
 public:
-    void solve(TreeNode* root, unordered_map<int,int>&mp){
 
+    int val = INT_MIN, maxfreq = -1, freq =0;
+    void solve(TreeNode* root, vector<int>&ans){
         if(!root) return;
-        solve(root->left,mp);
+        solve(root->left,ans);
+        if(val == root->val){
+            freq++;
+        }else{
+            val = root->val;
+            freq = 1;
+        }
+        if(freq > maxfreq){
+            maxfreq = freq;
+            ans = {root->val};
+        }else if(freq == maxfreq){
+            ans.push_back(root->val);
+        }
 
-        mp[root->val]++;
-        maxi = max(maxi, mp[root->val]);
-
-        solve(root->right,mp);
-
+        solve(root->right,ans);
     }
     vector<int> findMode(TreeNode* root) {
-        
-        maxi = INT_MIN;
-        unordered_map<int,int>mp;
-
-        solve(root,mp);
         vector<int>ans;
-        for(auto x : mp){
-            if(x.second == maxi) ans.push_back(x.first);
-        }
+        solve(root, ans);
         return ans;
     }
 };
