@@ -1,21 +1,16 @@
 class Solution {
 public:
-    int solve(int n, int k, vector<int>&p,int start){
-        if(n == 1){
-            return p[0];
-        }
-        int temp = (k+start)%n;
-        if(temp == 0){
-            temp = n-1;
-        }else{
-            temp--;
-        } 
-        p.erase(p.begin()+temp);
-        return solve(n-1,k,p,temp);
-    }
     int findTheWinner(int n, int k) {
-        vector<int>p;
-        for(int i =1;i<=n;i++) p.push_back(i);
-        return solve(n,k,p,0);
+        vector<int> circle;
+        for (int i = 1; i <= n; ++i) {
+            circle.push_back(i);
+        }
+        int cur_ind = 0;
+        while(circle.size() > 1){
+            int remove = (cur_ind + k - 1)%circle.size();
+            circle.erase(circle.begin() + remove);
+            cur_ind = remove;
+        }
+        return circle[0];
     }
 };
