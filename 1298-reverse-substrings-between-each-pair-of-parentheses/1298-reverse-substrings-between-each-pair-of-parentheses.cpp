@@ -17,14 +17,26 @@ public:
         }
 
         string ans= "";
-       for(int idx = 0,dir = 1;idx <n;idx+=dir){
-            if(s[idx] == '(' || s[idx] == ')'){
-                idx = pair[idx];
+        int dir =1;
+        int idx = 0;
+        // ( a b c d )
+        // 0 1 2 3 4 5
+        while(idx < n){
+
+            if(s[idx] == '('){
                 dir = -dir;
+                idx = pair[idx];
+                
+            }else if(s[idx] == ')'){
+                dir = -dir;
+                idx = pair[idx];
+                
             }else{
-                ans += s[idx];
+                ans+= s[idx];
+                
             }
-       }
+           idx += dir;
+        }
         return ans;
     }
 };
