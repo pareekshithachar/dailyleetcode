@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1720-crawler-log-folder](https://github.com/pareekshithachar/dailyleetcode/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/pareekshithachar/dailyleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pareekshithachar/dailyleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pareekshithachar/dailyleetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/pareekshithachar/dailyleetcode/tree/master/2502-sort-the-people) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/pareekshithachar/dailyleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pareekshithachar/dailyleetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/pareekshithachar/dailyleetcode/tree/master/2502-sort-the-people) |
 ## Tree
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/pareekshithachar/dailyleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/pareekshithachar/dailyleetcode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
