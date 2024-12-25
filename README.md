@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/pareekshithachar/dailyleetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pareekshithachar/dailyleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/pareekshithachar/dailyleetcode/tree/master/2502-sort-the-people) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/pareekshithachar/dailyleetcode/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
