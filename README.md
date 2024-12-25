@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pareekshithachar/dailyleetcode/tree/master/0231-power-of-two) |
 | [1642-water-bottles](https://github.com/pareekshithachar/dailyleetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pareekshithachar/dailyleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pareekshithachar/dailyleetcode/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pareekshithachar/dailyleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pareekshithachar/dailyleetcode/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/pareekshithachar/dailyleetcode/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
