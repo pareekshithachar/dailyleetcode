@@ -1,22 +1,16 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-        
-        int n = nums.size();
-        if(n == 1) return 0;
-        vector<int>temp(n,0);
-        temp[n-1] = nums[n-1];
-        for(int i = n-2;i>=0;i--){
-            temp[i] = nums[i]+temp[i+1];
+        int tot = 0, pre = 0;
+        for (int x : nums) {
+            tot += x;
         }
-        int lsum = 0;
-        for(int i=0;i<n;i++){
-            if(lsum == (temp[i]-nums[i])){
+        for (int i = 0; i < nums.size(); i++) {
+            if (pre == tot - pre - nums[i]) {
                 return i;
             }
-            lsum+= nums[i];
+            pre += nums[i];
         }
         return -1;
-        
     }
 };
