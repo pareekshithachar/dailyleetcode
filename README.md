@@ -38,18 +38,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/pareekshithachar/dailyleetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pareekshithachar/dailyleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/pareekshithachar/dailyleetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/pareekshithachar/dailyleetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pareekshithachar/dailyleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pareekshithachar/dailyleetcode/tree/master/1720-crawler-log-folder) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/pareekshithachar/dailyleetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2502-sort-the-people](https://github.com/pareekshithachar/dailyleetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pareekshithachar/dailyleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pareekshithachar/dailyleetcode/tree/master/1720-crawler-log-folder) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/pareekshithachar/dailyleetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
