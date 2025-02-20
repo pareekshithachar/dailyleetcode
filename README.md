@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/pareekshithachar/dailyleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pareekshithachar/dailyleetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pareekshithachar/dailyleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2107-find-unique-binary-string](https://github.com/pareekshithachar/dailyleetcode/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pareekshithachar/dailyleetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/pareekshithachar/dailyleetcode/tree/master/2502-sort-the-people) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pareekshithachar/dailyleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pareekshithachar/dailyleetcode/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pareekshithachar/dailyleetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/pareekshithachar/dailyleetcode/tree/master/2107-find-unique-binary-string) |
 | [2502-sort-the-people](https://github.com/pareekshithachar/dailyleetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pareekshithachar/dailyleetcode/tree/master/0567-permutation-in-string) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pareekshithachar/dailyleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2107-find-unique-binary-string](https://github.com/pareekshithachar/dailyleetcode/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/pareekshithachar/dailyleetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/pareekshithachar/dailyleetcode/tree/master/2502-sort-the-people) |
 ## Tree
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pareekshithachar/dailyleetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/pareekshithachar/dailyleetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
