@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pareekshithachar/dailyleetcode/tree/master/0048-rotate-image) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pareekshithachar/dailyleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pareekshithachar/dailyleetcode/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pareekshithachar/dailyleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pareekshithachar/dailyleetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pareekshithachar/dailyleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pareekshithachar/dailyleetcode/tree/master/1720-crawler-log-folder) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pareekshithachar/dailyleetcode/tree/master/0048-rotate-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pareekshithachar/dailyleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
