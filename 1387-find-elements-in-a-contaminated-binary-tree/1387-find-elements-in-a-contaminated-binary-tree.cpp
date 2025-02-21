@@ -11,28 +11,28 @@
  */
 class FindElements {
 public:
-    unordered_map<int,bool>mp;
+    set<int>st;
     void recover(TreeNode* root) {
         if(!root) return;
         if(root->left){
             root->left->val = (2*root->val) +1;
-            mp[root->left->val] = true;
+            st.insert(root->left->val);
             recover(root->left);
         } 
         if(root->right){
             root->right->val = (2*root->val)+2;
-            mp[root->right->val] = true;
+            st.insert(root->right->val);
             recover(root->right);
         }
     }
     FindElements(TreeNode* root) {
         root->val = 0;
-        mp[0] = true;
+        st.insert(root->val);
         recover(root);
     }
     
     bool find(int target) {
-        return mp.find(target) != mp.end();
+        return st.count(target)>0;
     }
 };
 
