@@ -11,42 +11,37 @@
  */
 class Solution {
 public:
-    TreeNode* solve(string &traversal,int level, int& i){
-        if(i >= traversal.size()) return NULL;
-        string num = "";
-        while(i < traversal.size() && traversal[i] != '-'){
-            num+=traversal[i];
-            i++;
-        }
-        int val = stoi(num);
-        int count = 0;
-        TreeNode* head = new TreeNode(val);
-        int initialval = i;
-        while(i < traversal.size() && traversal[i] == '-'){
-            count++;
-            i++;
-        }
-        if(count == level+1){
-            head->left = solve(traversal,level+1,i);
-        }else{
-            i = initialval;
-        }
-        count = 0;
-        initialval = i;
-        while(i < traversal.size() && traversal[i] == '-'){
-            count++;
-            i++;
-        }
-        if(count == level+1){
-            head->right = solve(traversal,level+1,i);
-        }else{
-            i = initialval;
-        }
-        return head;
-
-    }
     TreeNode* recoverFromPreorder(string traversal) {
-        int i =0;
-        return solve(traversal,0,i);
+        stack<TreeNode*> st;
+        int i=0;
+        while(i < traversal.size()){
+            int depth =0;
+            while(i < traversal.size() && traversal[i] == '-'){
+                depth++;
+                i++;
+            }
+            int num=0;
+            while(i < traversal.size() && traversal[i] != '-'){
+                num = num*10 + traversal[i]-'0';
+                i++;
+            }
+            TreeNode* node = new TreeNode(num);
+            while(st.size() > depth) st.pop();
+            if(!st.empty()){
+                if(!st.top()->left){
+                    st.top()->left = node;
+                }else{
+                    st.top()->right = node;
+                }
+            }
+            st.push(node);
+        }
+
+         while (st.size() > 1) {
+            st.pop();
+        }
+
+        return st.top();
+
     }
 };
