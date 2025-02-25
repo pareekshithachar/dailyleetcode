@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pareekshithachar/dailyleetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pareekshithachar/dailyleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pareekshithachar/dailyleetcode/tree/master/0724-find-pivot-index) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pareekshithachar/dailyleetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pareekshithachar/dailyleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pareekshithachar/dailyleetcode/tree/master/0567-permutation-in-string) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pareekshithachar/dailyleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pareekshithachar/dailyleetcode/tree/master/0724-find-pivot-index) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
