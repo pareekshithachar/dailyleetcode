@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/pareekshithachar/dailyleetcode/tree/master/0724-find-pivot-index) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pareekshithachar/dailyleetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1720-crawler-log-folder](https://github.com/pareekshithachar/dailyleetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pareekshithachar/dailyleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pareekshithachar/dailyleetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pareekshithachar/dailyleetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/pareekshithachar/dailyleetcode/tree/master/0231-power-of-two) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/pareekshithachar/dailyleetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/pareekshithachar/dailyleetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/pareekshithachar/dailyleetcode/tree/master/0724-find-pivot-index) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
