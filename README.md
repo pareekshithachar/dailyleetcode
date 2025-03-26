@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pareekshithachar/dailyleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pareekshithachar/dailyleetcode/tree/master/0567-permutation-in-string) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pareekshithachar/dailyleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pareekshithachar/dailyleetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pareekshithachar/dailyleetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pareekshithachar/dailyleetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0088-merge-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pareekshithachar/dailyleetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pareekshithachar/dailyleetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/pareekshithachar/dailyleetcode/tree/master/2502-sort-the-people) |
@@ -151,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
