@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pareekshithachar/dailyleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pareekshithachar/dailyleetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/pareekshithachar/dailyleetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pareekshithachar/dailyleetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pareekshithachar/dailyleetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/pareekshithachar/dailyleetcode/tree/master/1720-crawler-log-folder) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pareekshithachar/dailyleetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/pareekshithachar/dailyleetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pareekshithachar/dailyleetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pareekshithachar/dailyleetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/pareekshithachar/dailyleetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pareekshithachar/dailyleetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/pareekshithachar/dailyleetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pareekshithachar/dailyleetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Graph
 |  |
@@ -176,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pareekshithachar/dailyleetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pareekshithachar/dailyleetcode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pareekshithachar/dailyleetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
