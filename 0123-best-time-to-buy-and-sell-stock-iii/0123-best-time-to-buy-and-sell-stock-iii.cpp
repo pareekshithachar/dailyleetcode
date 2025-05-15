@@ -28,7 +28,7 @@ public:
             }
         }
         for(int idx = n-1;idx>=0;idx--){
-            for(int limit = 2;limit>=0;limit--){
+            for(int limit = 0;limit<3;limit++){
                 for(int bought = 0;bought < 2;bought++){
                         int profit = 0;
                         if(!bought){
