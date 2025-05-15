@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pareekshithachar/dailyleetcode/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pareekshithachar/dailyleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pareekshithachar/dailyleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pareekshithachar/dailyleetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pareekshithachar/dailyleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pareekshithachar/dailyleetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search Tree
