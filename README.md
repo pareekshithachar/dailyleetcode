@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pareekshithachar/dailyleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pareekshithachar/dailyleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pareekshithachar/dailyleetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pareekshithachar/dailyleetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/pareekshithachar/dailyleetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/pareekshithachar/dailyleetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/pareekshithachar/dailyleetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Iterator
