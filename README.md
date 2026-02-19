@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/pareekshithachar/dailyleetcode/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pareekshithachar/dailyleetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0088-merge-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pareekshithachar/dailyleetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/pareekshithachar/dailyleetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pareekshithachar/dailyleetcode/tree/master/0283-move-zeroes) |
