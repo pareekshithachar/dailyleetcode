@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pareekshithachar/dailyleetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/pareekshithachar/dailyleetcode/tree/master/0048-rotate-image) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pareekshithachar/dailyleetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pareekshithachar/dailyleetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pareekshithachar/dailyleetcode/tree/master/0189-rotate-array) |
@@ -207,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pareekshithachar/dailyleetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pareekshithachar/dailyleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
